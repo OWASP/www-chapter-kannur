@@ -39,7 +39,9 @@ If you represent one of these institutions, please do not hesitate to contact th
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+
+### 19th July 2022
+[Meetup - XML External Entity Attack (XXE)](events/19july2022)
 
 **OWASP Kannur proudly celebrating OWASP’s 20th Anniversary!**
 
