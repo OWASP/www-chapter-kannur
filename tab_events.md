@@ -20,7 +20,8 @@ postal-code: 670001
 
 ### 19th July 2022
 
-[Meetup - XML External Entity Attack (XXE)](events/19july2022)
+[Meetup - XML External Entity Attack (XXE) - 19th July 2022](events/19july2022)
+
 
 ## Events Archive
 
