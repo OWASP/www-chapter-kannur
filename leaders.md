@@ -1,7 +1,7 @@
 
 ### Leaders
-* [Vyshnav NK](mailto:vyshnav.nadukkandy@owasp.org)
+* [Vyshnav Nadukkandy](mailto:vyshnav.nadukkandy@owasp.org)
 * [Amal Mohandas](mailto:amal.mohandas@owasp.org)
-* [Prasanth K](mailto:prasanth.kunnaruvath@owasp.org) 
-* [Arjun R](mailto:arjun.rajendrakumar@owasp.org)
-* [Sooraj V](mailto:sooraj.velluahouse@owasp.org)
+* [Prasanth Kunnaruvath](mailto:prasanth.kunnaruvath@owasp.org) 
+* [Arjun Rajendrakumar](mailto:arjun.rajendrakumar@owasp.org)
+* [Sooraj Velluahouse](mailto:sooraj.velluahouse@owasp.org)
