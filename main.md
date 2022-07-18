@@ -50,17 +50,31 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 Location : <a href ="https://www.meetup.com/owasp-kannur/events/287264512/">Online </a>
 
-
+===============================================================================================================
 
 ### 20th July 2022
 
 ### 10-10:30AM
 
-[Meetup - Application Programming Interface (API) - How does it Works ?]
+Meetup - Application Programming Interface (API) - How does it Works ?
 
 <a href ="https://www.meetup.com/owasp-kannur/events/287265870/">Register Now</a>
 
 Location : <a href ="https://www.meetup.com/owasp-kannur/events/287265870/">Online </a>
+
+
+====================================================================================================
+
+### 21st July 2022 
+
+###7:15PM - 8:15PM
+
+Meetup - Let's talk Security 
+
+<a href ="https://www.meetup.com/owasp-kannur/events/287266133/">Register Now</a>
+
+Location : <a href ="https://www.meetup.com/owasp-kannur/events/287266133/">Online </a>
+
 
 
 
