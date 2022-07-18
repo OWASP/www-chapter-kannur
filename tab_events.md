@@ -20,7 +20,37 @@ postal-code: 670001
 
 ### 19th July 2022
 
-[Meetup - XML External Entity Attack (XXE) - 19th July 2022](events/19july2022)
+[Meetup - XML External Entity Attack (XXE) - 19th July 2022]
+
+
+
+
+
+### 20th July 2022
+
+ 10-10:30AM
+
+Meetup - Application Programming Interface (API) - How does it Works ?
+
+<a href ="https://www.meetup.com/owasp-kannur/events/287265870/">Register Now</a>
+
+Location : <a href ="https://www.meetup.com/owasp-kannur/events/287265870/">Online </a>
+
+
+
+### 21st July 2022 
+
+ 7:15PM - 8:15PM
+
+Meetup - Let's talk Security 
+
+<a href ="https://www.meetup.com/owasp-kannur/events/287266133/">Register Now</a>
+
+Location : <a href ="https://www.meetup.com/owasp-kannur/events/287266133/">Online </a>
+
+
+
+
 
 
 ## Events Archive
