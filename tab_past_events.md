@@ -15,43 +15,6 @@ postal-code: 670001
 ### Click [<img src="assets/images/meetup-s.png" style="width: 10%;" alt="OWASP Kannur on Meetup.com" />](https://www.meetup.com/owasp-kannur){:target="_blank" rel="noopener"} to join out!!
 
 
-## Upcoming Events
-
-
-### 19th July 2022
-
-[Meetup - XML External Entity Attack (XXE) - 19th July 2022]
-
-
-
-
-
-### 20th July 2022
-
- 10-10:30AM
-
-Meetup - Application Programming Interface (API) - How does it Works ?
-
-<a href ="https://www.meetup.com/owasp-kannur/events/287265870/">Register Now</a>
-
-Location : <a href ="https://www.meetup.com/owasp-kannur/events/287265870/">Online </a>
-
-
-
-### 21st July 2022 
-
- 7:15PM - 8:15PM
-
-Meetup - Let's talk Security 
-
-<a href ="https://www.meetup.com/owasp-kannur/events/287266133/">Register Now</a>
-
-Location : <a href ="https://www.meetup.com/owasp-kannur/events/287266133/">Online </a>
-
-
-
-
-
 
 ## Events Archive
 
