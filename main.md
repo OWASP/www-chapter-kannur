@@ -48,7 +48,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 <a href ="https://www.meetup.com/owasp-kannur/events/287264512/">Register Now </a>
 
-##Location : <a href ="https://www.meetup.com/owasp-kannur/events/287264512/">Online </a>
+Location : <a href ="https://www.meetup.com/owasp-kannur/events/287264512/">Online </a>
 
 **OWASP Kannur proudly celebrating OWASP’s 20th Anniversary!**
 
