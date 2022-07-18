@@ -60,7 +60,7 @@ Location : <a href ="https://www.meetup.com/owasp-kannur/events/287264512/">Onli
 
 <a href ="https://www.meetup.com/owasp-kannur/events/287265870/">Register Now</a>
 
-
+Location : <a href ="https://www.meetup.com/owasp-kannur/events/287265870/">Online </a>
 
 
 
