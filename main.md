@@ -42,7 +42,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 ### 19th July 2022
 
-### 10-10:30AM
+# 10-10:30AM
 
 [Meetup - XML External Entity Attack (XXE)](events/19july2022)
 
@@ -54,7 +54,7 @@ Location : <a href ="https://www.meetup.com/owasp-kannur/events/287264512/">Onli
 
 ### 20th July 2022
 
-### 10-10:30AM
+# 10-10:30AM
 
 Meetup - Application Programming Interface (API) - How does it Works ?
 
@@ -66,7 +66,7 @@ Location : <a href ="https://www.meetup.com/owasp-kannur/events/287265870/">Onli
 =======================================================================================
 ### 21st July 2022 
 
-### 7:15PM - 8:15PM
+# 7:15PM - 8:15PM
 
 Meetup - Let's talk Security 
 
