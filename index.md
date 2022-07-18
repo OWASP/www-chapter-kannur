@@ -43,7 +43,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
  10-10:30AM
 
-[Meetup - XML External Entity Attack (XXE)](events/19july2022)
+Meetup - XML External Entity Attack (XXE)
 
 <a href ="https://www.meetup.com/owasp-kannur/events/287264512/">Register Now </a>
 
