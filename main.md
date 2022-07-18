@@ -66,7 +66,7 @@ Location : <a href ="https://www.meetup.com/owasp-kannur/events/287265870/">Onli
 =======================================================================================
 ### 21st July 2022 
 
-###7:15PM - 8:15PM
+### 7:15PM - 8:15PM
 
 Meetup - Let's talk Security 
 
