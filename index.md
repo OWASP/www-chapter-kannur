@@ -79,4 +79,4 @@ Location : <a href ="https://www.meetup.com/owasp-kannur/events/287266133/">Onli
 
 **OWASP Kannur proudly celebrating OWASP’s 20th Anniversary!** 
 
-<p align="center"> <img src="assets/images/OWASP_20th_Anniversary.jpg" width="400" height="350"></p>
+<p align="center"> <img src="assets/images/OWASP_20th_Anniversary.jpg" width="400" height="350"></p> 
