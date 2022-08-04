@@ -74,7 +74,7 @@ Meetup - Let's talk Security
 Location : <a href ="https://www.meetup.com/owasp-kannur/events/287266133/">Online </a>
 
 
-
+{% include chapter_events.html group=page.meetup-group %}
 
 
 **OWASP Kannur proudly celebrating OWASP’s 20th Anniversary!** 
