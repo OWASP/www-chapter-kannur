@@ -47,7 +47,7 @@ Meetup - XML External Entity Attack (XXE)
 
 <a href ="https://www.meetup.com/owasp-kannur/events/287264512/">Register Now </a>
 
-Location : <a href ="https://www.meetup.com/owasp-kannur/events/287264512/">Online </a>
+Location : <a href ="https://www.meetup.com/owasp-kannur/events/287264512/"> Online </a>
 
 ====================================================================================
 
