@@ -1,6 +1,6 @@
 This is the source repository of OWASP Kannur. The Chapter wiki is located at https://owasp.org/www-chapter-kannur/
 
-<img src="https://owasp.org/www-chapter-kannur/assets/images/logo.png">
+<img src="https://owasp.org/www-chapter-kannur/assets/images/logo.png" width="200" height="150">
 
 Contributions
 
