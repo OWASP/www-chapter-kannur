@@ -2,7 +2,7 @@
 ### Information
 
 ![OWASP Kannur Chapter](assets/images/logo.png "OWASP Kannur Chapter")
-* Kerala, India
+* Kerala, India.
 
 ### Social
 * [Meetup](https://www.meetup.com/owasp-kannur/){:target="_blank" rel="noopener"}
