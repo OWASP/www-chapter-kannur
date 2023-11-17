@@ -18,7 +18,11 @@ postal-code: 670001
 {% include chapter_events.html group=page.meetup-group %}
 
 
-## Events Archive
+## Upcomming Events and Events Archive
+
+### 18th November 2023
+
+[OWASP Kannur Chapter Board Planning Meeting](events/18novemeber2023)
 
 ### 08th October 2023
 
