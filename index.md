@@ -36,7 +36,13 @@ We’re especially interested in partnering with local educational institutions 
 
 If you represent one of these institutions, please do not hesitate to contact the listed leadership team to see how we can form a mutually beneficial partnership.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+
+## Upcoming Meetup Events
+
+{% include chapter_events.html group=page.meetup-group %}
+
+
+Events Archives <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 
 ### 19th July 2022
