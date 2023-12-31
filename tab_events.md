@@ -18,7 +18,19 @@ postal-code: 670001
 {% include chapter_events.html group=page.meetup-group %}
 
 
-## Upcomming Events and Events Archive
+## Past Events and Events Archive
+
+## OWASP KANNUR : Don't get hooked! Stay safe from phishing - 31st December 2023
+- [Meetup Details](https://www.meetup.com/owasp-kannur/events/298222018/)
+
+## OWASP Kannur Chapter Board Planning Meeting Year End Meeting - 21st December 2023
+- [Meetup Details](https://www.meetup.com/owasp-kannur/events/298010181/)
+
+## The Dark Side of Digital Age : Protecting your privacy - 20th December 2023
+- [Meetup Details](https://www.meetup.com/owasp-kannur/events/298010144/)
+
+## On the Hunt : Bug Bounty Reconnaissance Demystified - 26th November 2023 
+- [Meetup Details](https://www.meetup.com/owasp-kannur/events/297438540/)
 
 ### 18th November 2023
 
