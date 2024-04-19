@@ -41,6 +41,8 @@ If you represent one of these institutions, please do not hesitate to contact th
 
 {% include chapter_events.html group=page.meetup-group %}
 {% include chapter_events.html group=page.meetup-group %}
+{% include chapter_events.html group=page.meetup-group %}
+ 
 
 
 Events Archives <!-- You should keep this section as it will populate your meetup events -->
