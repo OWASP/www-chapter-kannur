@@ -1,0 +1,29 @@
+leaders:
+  - name: Vyshnav Nadukkandy
+    email: vyshnav.nadukkandy@owasp.org
+    github: vyshnavvizz
+  - name: Amal Mohandas
+    email: amal.mohandas@owasp.org
+  - name: Arjun Rajendrakumar
+    email: arjun.rajendrakumar@owasp.org
+  - name: Sooraj Velluahouse
+    email: sooraj.velluahouse@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Kerala
+  city: Kannur
+  postal_code: '670001'
+  latitude: 11.8763836
+  longitude: 75.3737973
+meetup_group: owasp-kannur
+name: OWASP Kannur
+repositories:
+  - name: www-chapter-kannur
+    url: https://github.com/OWASP/www-chapter-kannur
+    description: OWASP Foundation Web Repository
+tags:
+  - kannur
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-kannur
