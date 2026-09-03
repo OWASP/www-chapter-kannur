@@ -22,6 +22,8 @@ postal-code: 670001
 
 ## Past Events and Events Archive
 
+## OWASP Kannur Chapter Board Planning Meeting Year End Meeting - 21st December 2026
+
 ## OWASP KANNUR : Don't get hooked! Stay safe from phishing - 31st December 2023
 - [Meetup Details](https://www.meetup.com/owasp-kannur/events/298222018/)
 
