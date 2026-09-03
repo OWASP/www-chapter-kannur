@@ -48,6 +48,17 @@ If you represent one of these institutions, please do not hesitate to contact th
 Events Archives <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 
+### 14th Aug 2026
+
+3:00-4:30PM
+
+Meetup - Attacking and Defending AI Agents
+
+Location : Offline 
+
+==================================================================================
+
+
 ### 19th July 2022
 
  10-10:30AM
